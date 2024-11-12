@@ -46,11 +46,14 @@ These metrics indicate that the model performs well in its current form and coul
 ## Results
 The following images demonstrate the model's predictions versus the ground truth labels:
 
-| Prediction                           | Ground Truth                          |
-|--------------------------------------|---------------------------------------|
-| ![Predicted]![ground truth](https://github.com/user-attachments/assets/5935961a-c4ff-4ceb-aea9-c4f7c6d72c4b)
- | ![Ground Truth]![ground truth](https://github.com/user-attachments/assets/ab20f935-0c73-4e70-b555-951608fddd50)
- |
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/5935961a-c4ff-4ceb-aea9-c4f7c6d72c4b" alt="Predicted" width="400"/>
+  <img src="https://github.com/user-attachments/assets/ab20f935-0c73-4e70-b555-951608fddd50" alt="Ground Truth" width="400"/>
+</p>
+
+<p align="center">
+  <strong>Left:</strong> Predicted | <strong>Right:</strong> Ground Truth
+</p>
 
 
 ##Acknowledgement
