@@ -48,7 +48,9 @@ The following images demonstrate the model's predictions versus the ground truth
 
 | Prediction                           | Ground Truth                          |
 |--------------------------------------|---------------------------------------|
-| ![Predicted](zebrafish-model/exp/val_batch0_pred.jpg) | ![Ground Truth](zebrafish-model/exp/val_batch0_labels.jpg) |
+| ![Predicted]![ground truth](https://github.com/user-attachments/assets/5935961a-c4ff-4ceb-aea9-c4f7c6d72c4b)
+ | ![Ground Truth]![ground truth](https://github.com/user-attachments/assets/ab20f935-0c73-4e70-b555-951608fddd50)
+ |
 
 
 ##Acknowledgement
