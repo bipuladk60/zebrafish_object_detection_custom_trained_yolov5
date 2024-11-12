@@ -55,9 +55,15 @@ The following images demonstrate the model's predictions versus the ground truth
 
 
 ##Acknowledgement
+
 roboflow:
+
   workspace: phdproject-b58ng
+  
   project: zebrafish-database
+  
   version: 20
+  
   license: CC BY 4.0
+  
   url: https://universe.roboflow.com/phdproject-b58ng/zebrafish-database/dataset/20
